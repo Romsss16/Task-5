@@ -1,0 +1,115 @@
+/* Header */
+.navigation{
+    width: 1440px;
+    background-color: #F6F8F9;
+}
+.header-wraper{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 50;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 18px 92px 17px 20px;
+}
+.nav-li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 27px;
+    font-family: 'DejaVu Sans Bold';
+    color: #343638;
+}
+.girl-logo{
+    vertical-align: middle;
+    margin-left:40px;
+}
+/* Section 1 */
+.container{
+	width: 1200px;
+	margin: 25px auto;
+    color: #F6F8F9;
+
+}
+.h2-1{
+    text-transform: uppercase;
+    color: #000;
+    font-family: 'DejaVu Sans Bold';
+    margin: 81px 40px;
+}
+.left-container{
+    width: 360px;
+    display: inline-block;
+    margin-right: 40px;
+    position: relative;
+}
+.middle-container{
+    width: 360px;
+    display: inline-block;
+    margin-right: 40px;
+    position: relative;
+}
+.right-container{
+    width: 360px;
+    display: inline-block;
+    position: relative;
+}
+.in-photo{
+    position: absolute;
+    top: 32px;
+    left:40px;
+    font-family: 'DejaVu Sans Bold';
+    font-size: 16px;
+}
+.fcont-p{
+    text-align: center;
+    font-size: 13px;
+    color: #A6ADB4;
+    font-family: 'DejaVu Sans Bold';
+    margin-top: 66px;
+}
+
+.time-logo{
+    margin-left: 40px;
+}
+/* Section 2*/
+.container-2{
+    width: 1200px;
+    margin: 25px auto;
+    color: #F6F8F9;
+}
+.h2-2{
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #000;
+    font-family: 'DejaVu Sans Bold';
+    margin: 38px 60px;
+}
+.image-block-left{
+    width: 760px;
+    display: inline-block;
+
+}
+.top-image{
+    width: 760px;
+    position: relative;
+    margin-bottom: 40px;
+    display: block;
+}
+.bottom-image{
+    width: 760px;
+    display: block;
+}
+.in-photo-2{
+    position: absolute;
+    top: 194px;
+    left: 313px;
+    font-family: 'DejaVu Sans Bold';
+    font-size: 16px;
+}
+.image-block-right{
+    display: inline-block;
+    width: 360px;
+}
